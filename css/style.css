@@ -19,7 +19,9 @@ body {
   background: #fff;
   scroll-behavior: smooth;
 }
-
+*{
+  scroll-behavior: smooth;
+}
 #page {
   position: relative;
   overflow-x: hidden;
